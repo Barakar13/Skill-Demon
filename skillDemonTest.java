@@ -3,7 +3,7 @@ import org.junit.*;
 public class skillDemonTest {
     @Test
     public void divisionTest() {
-        assertEquals(1, skillDemon.division(4, 2));
+        assertEquals(2, skillDemon.division(4, 2));
 
 
     
